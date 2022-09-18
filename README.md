@@ -1,4 +1,4 @@
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api?username=sr4136&hide=stars&count_private=true&show_icons=true&theme=dark&include_all_commits=true"
+  src="https://github.com/sr4136/github-stats/blob/master/generated/overview.svg"
 />
